@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>${あなたのハンドルネーム}の自己紹介</title>
+  <style>
+  body{
+     background-color:lightblue;
+  }
+   </style>
+</head>
+<body>
+<img src="http://nnn.ed.jp/common/img/logo_nschool.png" alt="アイコン">
+  
+<h1>${あなたのハンドルネーム｝</h1>
+  <h3>私の情報</h3>
+  <h3></h3>
+  <table>
+    <tr>
+      <th>年齢</th>
+      <td>３４</td>
+    </tr>
+    <tr>
+      <th>性別</th>
+      <td>男性</td>
+    </tr>
+    <tr>
+      <th>出身地</th>
+      <td>福島県</td>
+    </tr>
+  </table>
+  <h3>趣味</h3>
+  <h3></h3>
+  <ul>
+    <li>サッカー</li>
+    <li>プログらミング</li>
+    <li>キャンプ</li>
+  </ul>
+<h3>SNSへのリンク集</h3>
+<ul>
+  <il><a href="https://twitter.com/nico_nico_news">Twitter</a></il>
+</ul>
+<h3>好きな動画</h3>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/7HgJIAUtICU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+<h3>卒業した中学校の場所</h3>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.9181386721452!2d140.91770991531814!3d37.79195817975625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60209dd049b08c79%3A0x513bfc361950ad06!2z55u46aas5biC56uL5ZCR6Zm95Lit5a2m5qCh!5e0!3m2!1sja!2sjp!4v1637993743630!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</body>
+</html>
